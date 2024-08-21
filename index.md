@@ -1,6 +1,6 @@
 
 
-IMAGE
+[IMAGE](https://github.com/JoaoM07/TurnDaHandle/blob/main/TurnDaHandle_Logo.png)
 
 ## 1. Background
 
