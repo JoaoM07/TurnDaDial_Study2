@@ -1,5 +1,3 @@
-
-
 ![IMAGE](TurnDaHandle_Logo.png)
 
 ## 1. Background
@@ -16,7 +14,7 @@ You can find more information about the study [here](https://drive.google.com/fi
 
 ## 2. Financial compensation available
 
-By taking part in both sessions of the study, you will compensate you with £20.
+We will compensate you with £20 for taking part in both sessions of the study.
 
 ## 3. Get in touch!
 
