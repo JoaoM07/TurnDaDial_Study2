@@ -12,7 +12,7 @@ We will also need to send you a couple of questionnaires for you to complete and
 
 The first session involves taking part in a video call during which I will check that you are not experiencing any pain and then guide your through a simple wrist exercise with the purpose of making your forearm muscles sore the next day. For the second session, you will need to come to one of the University campuses, wear a virtual reality headset and turn a virtual handle using the handheld controllers provided.
 
-You can find more information about the study [here](https://drive.google.com/file/d/19b18hgSGBHMhBVq5CqfDsDhtdmPawacw/view?usp=sharing) and the informed consent form here.
+You can find more information about the study [here](https://drive.google.com/file/d/19b18hgSGBHMhBVq5CqfDsDhtdmPawacw/view?usp=sharing) and the consent form [here](https://drive.google.com/file/d/1X9E3yNmLzaihJn1zI_BJ5ENexWx4W8Rt/view?usp=sharing).
 
 ## 2. Financial compensation available
 
