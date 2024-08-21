@@ -1,6 +1,4 @@
-# TurnDaDial - Study 2
-
-Below, you will find how to take part in our study. Get in touch if you require more information 
+Below, you will find how to take part in our study. 
 
 IMAGE
 
@@ -10,14 +8,21 @@ This page provides information about the second study of my PhD project being ru
 
 We are testing how VR can be used to study differences in wrist movement in healthy individuals with forearm soreness following exercise. 
 
-## 2. Get in touch
+Taking part in the study requires attending two sessions, the first one remotely and the second one in presence.
 
-Contact us if you would like to take part in the study so we provide you the questionnaires required for the study and arrange when the first session.
+We will need to send you a couple of questionnaires for you to complete and return them to us during the first session.
+
+Before deciding whether you will want to take part in the study, please read the study information sheet and the informed consent form.
+
+## 2. Financial compensation available
+
+By taking part in both sessions of the study, you will compensate you with £20.
+
+## 3. Get in touch!
+
+Contact us if you require more information or if you want to take part in the study and we can arrange the first session.
 
 
-## 3. Financial compensation available
-
-We will financially compensate those participants who take part in both sessions with £20.
 
 
 
