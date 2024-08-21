@@ -2,15 +2,17 @@
 
 IMAGE
 
-## 1. Taking part in the study
+## 1. Background
 
 We are testing how VR can be used to study differences in wrist movement in healthy individuals with forearm soreness following exercise. 
 
-Taking part in the study requires attending two sessions, the first one remotely and the second one in presence.
+Taking part in the study requires attending two sessions, the first one remotely and the second one in presence. 
 
-We will need to send you a couple of questionnaires for you to complete and return them to us during the first session.
+We will also need to send you a couple of questionnaires for you to complete and return them to us during the first session.
 
-Before deciding whether you will want to take part in the study, please read the study information sheet and the informed consent form.
+The first session involves taking part in a video call during which I will check that you are not experiencing any pain and then guide your through a simple wrist exercise with the purpose of making your forearm muscles sore the next day. For the second session, you will need to come to one of the University campuses, wear a virtual reality headset and turn a virtual handle using the handheld controllers provided.
+
+You can find more information about the study here and the informed consent form here.
 
 ## 2. Financial compensation available
 
